@@ -1,0 +1,1 @@
+In this report, we will explore the various factors that influence fluid dynamics in glaciers and how they contriute to the fomation and behaviour of these natural structures.
