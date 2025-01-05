@@ -1,0 +1,11 @@
+pkgname=trans
+build(){
+    # pwd
+    cd ..
+    make
+}
+package(){
+    # pwd
+    cd ..
+    make prefix="$pkgdir" install
+}
