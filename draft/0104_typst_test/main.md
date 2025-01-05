@@ -14,6 +14,7 @@ tinymist 入れたら怒られた
 
 vscode 拡張作ったことないので、裏で動いてるアプリとかわからない
 
+```
 Failed to activate tinymist: Error: Could not find a valid tinymist binary.  
 Bundled ('c:\Users\c\.vscode\extensions\myriad-dreamin.tinymist-0.12.16-win32-x64\out\tinymist.exe'): failed to probe:  
 	return status: 3221225781  
@@ -25,6 +26,7 @@ tinymist のアクティブ化に失敗しました: エラー: 有効な tinymi
 	返品ステータス: 3221225781  
 PATH ('tinymist.exe'): プローブに失敗しました:  
 	エラー: spawnSync tinymist.exe ENOENT
+```
 
 # 再配布可能な c/c++ パッケージがうんたら
 
