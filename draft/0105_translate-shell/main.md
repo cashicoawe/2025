@@ -260,5 +260,7 @@ Other options:
 See the man page trans(1) for more information.
 
 c@DESKTOP-ACV7PFE UCRT64 /c/Users/c/Desktop/2025
+$ whereis trans
+trans: /usr/local/bin/trans
 
 ```
