@@ -1,3 +1,10 @@
+# 01/07
+
+new draft: ~  
+update draft: ~
+
+に変更した
+
 # commit message
 
 統一しましょう
