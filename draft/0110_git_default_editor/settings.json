@@ -1,0 +1,54 @@
+{
+    "workbench.startupEditor": "none",
+    // "C_Cpp.default.compilerPath": "C:\\Users\\c\\Desktop\\msys2\\ucrt64\\bin\\cc.exe",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "explorer.sortOrder": "type",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "MSYS2 ucrt64": {
+            "path": "cmd.exe",
+            "args": [
+                "/c",
+                "C:\\Users\\c\\Desktop\\msys2\\msys2_shell.cmd -defterm -here -no-start -ucrt64"
+            ]
+        }
+    },
+    "[typst]": {
+        "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?"
+    },
+    "[typst-code]": {
+        "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.windows": "MSYS2 ucrt64",
+    "git.ignoreRebaseWarning": true,
+    "workbench.colorTheme": "GitHub Dark",
+    "files.exclude": {
+        "**/.git": false
+    },
+    "workbench.sideBar.location": "right",
+    // "[typst]": {
+    //     "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?"
+    // },
+    // "[typst-code]": {
+    //     "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?"
+    // },
+    
+}
